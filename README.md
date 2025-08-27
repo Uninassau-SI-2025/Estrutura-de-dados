@@ -245,7 +245,6 @@ done
 - **Aluno:** Ronicarlos Vieira Cruz Ferreira
 - **Matrícula:** 37012676
 - **Email Institucional:** 37012676@sempreunijuazeiro.com.br
-- **Teams:** [Acesse o chat no Teams](https://teams.microsoft.com/l/chat/19:25b697d5-82b3-4397-b10a-fc11358e68bc_7bd4daca-63a7-4d06-a152-7ac4a038f32a@unq.gbl.spaces/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 ## 📜 Licença
 
