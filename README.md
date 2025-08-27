@@ -240,9 +240,12 @@ done
 - ✅ Traduções para outros idiomas
 
 ### 📧 **Contato**
-- **Issues:** Use o sistema de issues do GitHub
-- **Pull Requests:** Envie melhorias via PR
-- **Discussões:** Participe das discussões
+
+**Desenvolvedor do Tutorial:**
+- **Aluno:** Ronicarlos Vieira Cruz Ferreira
+- **Matrícula:** 37012676
+- **Email Institucional:** 37012676@sempreunijuazeiro.com.br
+- **Teams:** [Acesse o chat no Teams](https://teams.microsoft.com/l/chat/48:notes/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 ## 📜 Licença
 
@@ -275,3 +278,4 @@ Este tutorial foi criado com muito cuidado para fornecer uma base sólida em Pyt
 *Criado com ❤️ para iniciantes em programação*
 *Versão: 3.0 - Organizado e Comentado para Iniciantes*
 *Data: 25/08*
+*UNINASSAU TURMA 2025*
